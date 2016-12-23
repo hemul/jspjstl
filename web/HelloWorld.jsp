@@ -23,7 +23,6 @@ Hello World JSP!
     out.println(text);
 %>
 <br/>
-
 <%=text%>
 
 </body>
