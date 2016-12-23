@@ -24,6 +24,5 @@ Hello World JSP!
 %>
 <br/>
 <%=text%>
-
 </body>
 </html>
